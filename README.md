@@ -1,6 +1,6 @@
 # Website Hospital - MedCare
 
-Este repositório contém o código-fonte de um website para o Hospital MedCare, apresentando informações detalhadas sobre serviços, equipe médica, agendamento, avaliações de clientes e blogs relacionados à saúde. Abaixo estão detalhes sobre o projeto:
+Website para o Hospital MedCare, apresentando informações detalhadas sobre serviços, equipe médica, agendamento, avaliações de clientes e blogs relacionados à saúde. Abaixo estão detalhes sobre o projeto:
 
 # Funcionalidades
 
