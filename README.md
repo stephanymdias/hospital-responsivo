@@ -19,3 +19,7 @@ Website para o Hospital MedCare, apresentando informações detalhadas sobre ser
 
 # LINK
 https://hospital-responsivo.vercel.app/
+
+# VIZUALIZAÇÃO
+![image](https://github.com/stephanymdias/hospital-responsivo/assets/130869859/d0218f40-bd42-41a5-b70a-a4864ef60245)
+
